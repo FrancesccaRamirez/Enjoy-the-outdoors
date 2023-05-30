@@ -1,0 +1,19 @@
+body {
+  background-image: url("images/Mountains_homepage.jpg");
+  background-repeat: no-repeat;
+  background-size: fixed;
+}
+
+#footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(249, 249, 249, 0.5);
+  padding: 20px 0;
+}
+
+h1 {
+  color: white;
+}
