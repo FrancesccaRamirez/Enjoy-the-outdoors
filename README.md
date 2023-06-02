@@ -8,5 +8,5 @@ I build a nature website called Nature Parks using Javascript, HTML, and CSS.
 <img width="1680" alt="Search-by-park page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/bf96fb85-e9e8-477f-85bb-df47143c6098">
 <img width="1680" alt="Search-by-mountains page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/e9860365-e28c-487f-ba83-73afefc9d187">
  
-One peice of my code that I thought was interesting was creating functions for my dropdown menu. 
+One piece of my code that I thought was interesting was creating functions for my dropdown menu. 
 <img width="861" alt="Enjoy-the-outdoors-function" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/4b971455-28f6-440b-924a-69cc9f9266b0">
