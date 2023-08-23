@@ -1,5 +1,5 @@
 # Enjoy-the-outdoors
- Capstone 2 project
+Link to website: http://127.0.0.1:5501/home_page.html
 
 I build a nature website called Nature Parks using Javascript, HTML, and CSS. 
 <img width="1678" alt="Homepage enjoy-the-outdoors" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/7880be34-e7d4-4d54-8eef-e22d7d523cd6">
