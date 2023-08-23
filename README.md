@@ -10,6 +10,9 @@ Languages used: Javascript, HTML, and CSS.
 The home page of the website serves as an informational section where users can read about Nature Parks' mission. The home page contains hyper links in the navigation bar where users can then click to either the National Parks or Mountains page.
 
 <img width="1680" alt="About-us page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/17311aba-c95e-49a5-87e2-43b055329043">
+
+The National Parks page contains a drop-down menu that allows users to filter through U.S. states and territories to find national parks in the area. Users can also narrow down their search by filtering out through a specific park type. Information will be generated about each park when the user finalizes their filter. The navigation bar also allows users to continue onto the Mountains page or return to the Home page.
+
 <img width="1591" alt="Search-by-location page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/334cecba-ab42-4720-9551-0f604c4e5a33">
 <img width="1491" alt="Search-by-park page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/5f8e0dc9-b463-4453-af66-2410a2d29239">
 <img width="1680" alt="Search-by-mountains page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/e9860365-e28c-487f-ba83-73afefc9d187">
