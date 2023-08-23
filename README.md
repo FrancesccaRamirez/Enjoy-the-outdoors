@@ -6,6 +6,9 @@ Overview: I built an outdoors website that informs users of national parks and m
 Languages used: Javascript, HTML, and CSS. 
 
 <img width="1678" alt="Homepage enjoy-the-outdoors" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/7880be34-e7d4-4d54-8eef-e22d7d523cd6">
+
+The home page of the website serves as an informational section where users can read about Nature Parks' mission. The home page contains hyper links in the navigation bar where users can then click to either the National Parks or Mountains page.
+
 <img width="1680" alt="About-us page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/17311aba-c95e-49a5-87e2-43b055329043">
 <img width="1591" alt="Search-by-location page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/334cecba-ab42-4720-9551-0f604c4e5a33">
 <img width="1491" alt="Search-by-park page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/5f8e0dc9-b463-4453-af66-2410a2d29239">
