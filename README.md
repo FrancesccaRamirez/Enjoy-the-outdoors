@@ -2,7 +2,8 @@
 Link to website: http://127.0.0.1:5501/home_page.html
 
 Overview: I built an outdoors website that informs users of national parks and mountains that exist throughout the United States.
-Languages: Javascript, HTML, and CSS. 
+
+Languages used: Javascript, HTML, and CSS. 
 
 <img width="1678" alt="Homepage enjoy-the-outdoors" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/7880be34-e7d4-4d54-8eef-e22d7d523cd6">
 <img width="1680" alt="About-us page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/17311aba-c95e-49a5-87e2-43b055329043">
