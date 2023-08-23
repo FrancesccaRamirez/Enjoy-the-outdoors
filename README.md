@@ -15,6 +15,9 @@ The National Parks page contains a drop-down menu that allows users to filter th
 
 <img width="1591" alt="Search-by-location page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/334cecba-ab42-4720-9551-0f604c4e5a33">
 <img width="1491" alt="Search-by-park page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/5f8e0dc9-b463-4453-af66-2410a2d29239">
+
+The Mountains page allows users to search for the different moutains throughout the U.S. When a user clicks a mountain from the drop down menu, the mountain will appear with an image, a short description, the mountain's elevation and the coordinates.
+
 <img width="1680" alt="Search-by-mountains page" src="https://github.com/FrancesccaRamirez/Enjoy-the-outdoors/assets/130613476/e9860365-e28c-487f-ba83-73afefc9d187">
  
 One piece of my code that I thought was interesting was creating functions for my dropdown menu. 
